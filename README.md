@@ -1,9 +1,12 @@
-Core Concepts¶
+Core Concepts
+
+
 Agents¶
 Autonomous systems that execute tasks by selecting and running actions. Each agent has:
 
 agent_card - Metadata (name, description, version, URL)
 execute() - Main entry point for processing requests
+
 
 Actions¶
 Building blocks that agents use to accomplish tasks. Built-in types:
